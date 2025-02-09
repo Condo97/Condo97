@@ -1,3 +1,5 @@
+<img src="img/profile.jpeg" alt="Profile" style="border-radius: 200px; border: 200px solid blue; width: 200px">
+
 # Alex Coundouriotis
 [![Phone Badge](https://img.shields.io/badge/Phone-678--772--0630-blue.svg?style=flat-square)](tel:678-772-0630)
 [![Email Badge](https://img.shields.io/badge/Email-alex.coundou%40gmail.com-blue.svg?style=flat-square)](mailto:alex.coundou@gmail.com)
