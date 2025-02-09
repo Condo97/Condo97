@@ -37,7 +37,7 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 • Share Extension for importing recipes from video transcription (OpenAI Whisper), websites, or images  
 • 15,000+ lines of Swift & Java, using HTTPS and WebSocket with local (CoreData)/remote (MySQL) persistence  
 
-### [Open Source Java GPT Client](https://github.com/Condo97/Java-GPT-Client-OAIGPTConnector)
+### [Java GPT Client - Open Source](https://github.com/Condo97/Java-GPT-Client-OAIGPTConnector)
 • <strong>Tech Stack:</strong> Java, GPT-4 + Structured Outputs, JUnit Jupiter, Jackson, Git  
 • <strong>Period:</strong> 2022 – Present  
 • Open-source Java GPT & OpenAI library for real-time chats, structured outputs, image creation, and audio transcription  
