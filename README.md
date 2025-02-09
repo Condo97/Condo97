@@ -76,10 +76,12 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 ## Links
 
 ### App Store
-- [AI+Vision](https://apps.apple.com/us/app/ai-vision-see-with-ai/id6479183759)  
 - [StudyAI](https://apps.apple.com/us/app/studyai-web-photo-ai-tutor/id1664039953)  
 - [ChefApp](https://apps.apple.com/us/app/chefapp-ai-recipe-creator/id6450523267)
-- [Barback](https://apps.apple.com/us/app/barback-ai-drink-crafter/id6466750022)  
+- [Barback](https://apps.apple.com/us/app/barback-ai-drink-crafter/id6466750022)
+- [AI+Vision](https://apps.apple.com/us/app/ai-vision-see-with-ai/id6479183759)
+- [CallAI](https://apps.apple.com/us/app/call-ai-simple-voice-chat/id6739984942)
+- [SuppSnap](https://apps.apple.com/us/app/suppsnap-analyze-supplements/id6739546193)
 
 ### GitHub
 - [Profile](https://github.com/Condo97)
