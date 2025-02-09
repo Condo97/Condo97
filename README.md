@@ -18,7 +18,7 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 
 ## Notable Projects
 
-### StudyAI Learn With GPT 
+### StudyAI Learn With GPT
 • <strong>Tech Stack:</strong> Swift, SwiftUI, CoreData, Java, MySQL, Firebase, Tenjin, GPT, Git  
 • <strong>Period:</strong> 2021 – Present  
 • 25,000+ lines of Swift & SwiftUI using UIKit & Combine for camera/audio (AVFoundation)  
@@ -37,7 +37,7 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 • Share Extension for importing recipes from video transcription (OpenAI Whisper), websites, or images  
 • 15,000+ lines of Swift & Java, using HTTPS and WebSocket with local (CoreData)/remote (MySQL) persistence  
 
-### Java GPT Client  
+### [Java GPT Client](https://github.com/Condo97/Java-GPT-Client-OAIGPTConnector)
 • <strong>Tech Stack:</strong> Java, GPT-4 + Structured Outputs, JUnit Jupiter, Jackson, Git  
 • <strong>Period:</strong> 2022 – Present  
 • Open-source Java GPT & OpenAI library for real-time chats, structured outputs, image creation, and audio transcription  
@@ -82,12 +82,12 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 - [ChefApp](https://apps.apple.com/us/app/chefapp-ai-recipe-creator/id6450523267)
 
 ### GitHub
-- [Profile](https://github.com/Condo97)  
+- [Profile](https://github.com/Condo97)
+- [Java GPT Client](https://github.com/Condo97/Java-GPT-Client-OAIGPTConnector)  
 - [StudyAI iOS](https://github.com/Condo97/StudyAI-iOS)  
 - [StudyAI Server](https://github.com/Condo97/WriteSmith-Server)  
 - [ChefApp iOS](https://github.com/Condo97/ChefApp-SwiftUI-Public)  
 - [ChefApp Server](https://github.com/Condo97/ChefApp-Server)  
-- [Java GPT Client](https://github.com/Condo97/Java-GPT-Client-OAIGPTConnector)  
 - [SQLComponentizer](https://github.com/Condo97/SQLComponentizer)
 
 ---
