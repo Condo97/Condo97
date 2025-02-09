@@ -18,7 +18,7 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 
 ## Notable Projects
 
-### StudyAI Learn With GPT
+### [StudyAI Learn With GPT](https://apps.apple.com/us/app/studyai-web-photo-ai-tutor/id1664039953)
 • <strong>Tech Stack:</strong> Swift, SwiftUI, CoreData, Java, MySQL, Firebase, Tenjin, GPT, Git  
 • <strong>Period:</strong> 2021 – Present  
 • 25,000+ lines of Swift & SwiftUI using UIKit & Combine for camera/audio (AVFoundation)  
@@ -28,7 +28,7 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 • 12 Swift packages (including an open-source face animation library, Firebase, MMPs)  
 • Averages 5–10k monthly downloads, 130k+ chats, 880 reviews (4.8 star average)  
 
-### ChefApp AI Recipe Maker  
+### [ChefApp AI Recipe Maker](https://apps.apple.com/us/app/chefapp-ai-recipe-creator/id6450523267)
 • <strong>Tech Stack:</strong> Swift, SwiftUI, CoreData, Java, MySQL, Firebase, Tenjin, GPT, Git  
 • <strong>Period:</strong> 2022 – Present  
 • GPT Structured Output to generate JSON recipes from fridge/pantry images  
@@ -78,8 +78,8 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 ### App Store
 - [AI+Vision](https://apps.apple.com/us/app/ai-vision-see-with-ai/id6479183759)  
 - [StudyAI](https://apps.apple.com/us/app/studyai-web-photo-ai-tutor/id1664039953)  
-- [Barback](https://apps.apple.com/us/app/barback-ai-drink-crafter/id6466750022)  
 - [ChefApp](https://apps.apple.com/us/app/chefapp-ai-recipe-creator/id6450523267)
+- [Barback](https://apps.apple.com/us/app/barback-ai-drink-crafter/id6466750022)  
 
 ### GitHub
 - [Profile](https://github.com/Condo97)
