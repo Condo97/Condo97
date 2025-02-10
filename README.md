@@ -1,21 +1,12 @@
-<div align="center">
-  <table>
-    <tr>
-      <!-- Profile Image -->
-      <td width="50%" align="center">
-        <img src="img/profile.jpeg" style="width: 96%; height: auto; border-radius: 8px;">
-      </td>
-      <!-- SVG Stack -->
-      <td width="50%" align="center">
-        <img src="img/stats1.svg" style="width: 100%; height: auto; display: block; margin: 0 auto;">
-        <br>
-        <img src="img/stats2.svg" style="width: 100%; height: auto; display: block; margin: 0 auto;">
-      </td>
-    </tr>
-  </table>
-</div>
-
-
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="img/profile.jpeg" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+    </td>
+    <td width="60%" align="center">
+      <img src="img/stats1.svg" style="width: 500px; height: auto; display: block; margin: 0 auto;">
+    </td>
+</table>
 
 # Alex Coundouriotis
 [![Phone Badge](https://img.shields.io/badge/Phone-678--772--0630-blue.svg?style=flat-square)](tel:678-772-0630)
