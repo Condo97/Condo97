@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="img/stats1.jpg" width="50%">
+  <br>
+  <img src="img/stats2.jpg" width="50%">
+</div>
+
 <img src="img/profile.jpeg" alt="Profile" style="border-radius: 200px; border: 200px solid blue; width: 200px">
 
 # Alex Coundouriotis
