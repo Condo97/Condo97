@@ -38,7 +38,7 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 • 12 Swift packages (including an open-source face animation library, Firebase, MMPs)  
 • Averages 5–10k monthly downloads, 130k+ chats, 880 reviews (4.8 star average)  
 
-### [ChefApp AI Recipe Maker](https://apps.apple.com/us/app/chefapp-ai-recipe-creator/id6450523267)
+### [ChefApp AI Recipe Maker](https://apps.apple.com/us/app/chefapp-ai-recipe-creator/id6450523267) ([github](https://github.com/Condo97/ChefApp-SwiftUI-Main/tree/main))
 • <strong>Tech Stack:</strong> Swift, SwiftUI, CoreData, Java, MySQL, Firebase, Tenjin, GPT, Git  
 • <strong>Period:</strong> 2022 – Present  
 • GPT Structured Output to generate JSON recipes from fridge/pantry images  
