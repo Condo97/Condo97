@@ -14,14 +14,14 @@
 [![Email Badge](https://img.shields.io/badge/Email-alex.coundou%40gmail.com-blue.svg?style=flat-square)](mailto:alex.coundou@gmail.com)
 
 ## Summary
-Senior iOS & full-stack engineer, 9 years shipping production software — AI-augmented by design: architecture, constraints, and verification gates, with coding agents doing the typing. I build and operate production LLM systems (multi-provider routing, guardrails, RAG, evals, cost telemetry) and the agent infrastructure around them. 10+ apps shipped to the App Store under my own studio. Everything here is checkable.
+Senior iOS & full-stack engineer, 9 years shipping production software. I design the architecture, constraints, and verification gates, and coding agents do the typing. I build and operate production LLM systems (multi-provider routing, guardrails, RAG, evals, cost telemetry) and the agent infrastructure around them. 10+ apps shipped to the App Store under my own studio. Everything here is checkable.
 
 ---
 
 ## Currently
-**Reframe (Glucobit, Inc.) — iOS & Full-Stack Engineer (2025 – Present)**
+**Reframe (Glucobit, Inc.) · iOS & Full-Stack Engineer (2025 – Present)**
 - Production LLM infrastructure on serverless Node.js / AWS Lambda: multi-provider model routing with failover, prompt guardrails, RAG, per-request cost & cache telemetry
-- SwiftUI modernization of a large legacy UIKit codebase — multiple large-scale surface rewrites, full backward compatibility
+- SwiftUI modernization of a large legacy UIKit codebase, landing multiple large-scale surface rewrites with full backward compatibility
 - Unified real-time messaging platform across six conversation types; widgets & Live Activities; Stripe/RevenueCat monetization
 
 ---
@@ -45,14 +45,14 @@ Senior iOS & full-stack engineer, 9 years shipping production software — AI-au
 ### [Java GPT Client - Open Source](https://github.com/Condo97/Java-GPT-Client-OAIGPTConnector)
 • Open-source Java GPT & OpenAI library for real-time chats, structured outputs, image creation, and audio transcription  
 • WebSocket support for live chats plus RESTful API usage  
-• Annotation framework for structured output POJOs—encode and decode structured responses  
+• Annotation framework for structured output POJOs: encode and decode structured responses  
 
 ---
 
 ## Open Source
-- **Merged PRs on third-party open-source Swift projects** — an event-handling fix in an OpenAI realtime API client ([m1guelpf/swift-realtime-openai](https://github.com/m1guelpf/swift-realtime-openai)) and undo support in a Swift code-editor component ([ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor)) — reviewed and merged by external maintainers
-- **Apple Transaction Client** — early StoreKit 2 server-side validation library, an open-source alternative to RevenueCat
-- **SQL Componentizer** — annotation-based Java POJO ↔ SQL micro-ORM
+- **Merged PRs on third-party open-source Swift projects**: an event-handling fix in an OpenAI realtime API client ([m1guelpf/swift-realtime-openai](https://github.com/m1guelpf/swift-realtime-openai)) and undo support in a Swift code-editor component ([ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor)), reviewed and merged by external maintainers
+- **Apple Transaction Client**: early StoreKit 2 server-side validation library, an open-source alternative to RevenueCat
+- **SQL Componentizer**: annotation-based Java POJO ↔ SQL micro-ORM
 
 ---
 
@@ -112,4 +112,4 @@ Senior iOS & full-stack engineer, 9 years shipping production software — AI-au
 
 ---
 
-> Building production LLM systems and the guardrails that make them trustworthy — routing, evals, cost control. 9 years shipping iOS and full-stack. Everything here is checkable — reach out via email or phone.
+> Building production LLM systems and the guardrails that make them trustworthy: routing, evals, cost control. 9 years shipping iOS and full-stack. Everything here is checkable. Reach out via email or phone.
