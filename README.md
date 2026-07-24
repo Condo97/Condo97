@@ -4,7 +4,7 @@
       <img src="img/profile.jpeg" style="width: 200px; height: auto; display: block; margin: 0 auto;">
     </td>
     <td width="60%" align="center">
-      <img src="img/stats1.svg" style="width: 500px; height: auto; display: block; margin: 0 auto;">
+      <img src="https://streak-stats.demolab.com/?user=Condo97&amp;theme=dark&amp;hide_border=true" alt="GitHub streak stats — live" style="width: 500px; height: auto; display: block; margin: 0 auto;">
     </td>
 </tr>
 </table>
