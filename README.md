@@ -14,7 +14,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-alex.coundou%40gmail.com-blue.svg?style=flat-square)](mailto:alex.coundou@gmail.com)
 
 ## Summary
-Senior iOS & full-stack engineer, 9 years shipping production software — AI-augmented by design: architecture, constraints, and verification gates, with coding agents doing the typing. I build and operate production LLM systems (multi-provider routing, guardrails, RAG, evals, cost telemetry) and the agent infrastructure around them. Highest-output engineer on a consumer health app — 40% of all production commits over 14 months. 10+ apps shipped to the App Store under my own studio. Everything here is checkable.
+Senior iOS & full-stack engineer, 9 years shipping production software — AI-augmented by design: architecture, constraints, and verification gates, with coding agents doing the typing. I build and operate production LLM systems (multi-provider routing, guardrails, RAG, evals, cost telemetry) and the agent infrastructure around them. Shipped ~140K lines of Swift in 14 months on a consumer health app. 10+ apps shipped to the App Store under my own studio. Everything here is checkable.
 
 ---
 
