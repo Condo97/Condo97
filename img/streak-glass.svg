@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495" height="195">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a3f2e"/>
+      <stop offset="0.55" stop-color="#0c5c40"/>
+      <stop offset="1" stop-color="#0e7a50"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.34"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#02160f" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <!-- glass panel -->
+  <rect x="6" y="6" width="483" height="183" rx="16" fill="url(#bg)" filter="url(#soft)"/>
+  <rect x="6" y="6" width="483" height="183" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.22"/>
+  <!-- frosted top gloss -->
+  <rect x="6" y="6" width="483" height="90" rx="16" fill="url(#gloss)"/>
+  <!-- diagonal sheen -->
+  <rect x="6" y="6" width="483" height="183" rx="16" fill="url(#sheen)" opacity="0.5"/>
+
+  <!-- column dividers -->
+  <line x1="183" y1="42" x2="183" y2="152" stroke="#ffffff" stroke-opacity="0.28"/>
+  <line x1="322" y1="42" x2="322" y2="152" stroke="#ffffff" stroke-opacity="0.28"/>
+
+  <!-- total -->
+  <text x="95" y="88" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial" font-size="40" font-weight="700" fill="#ffffff">4,451</text>
+  <text x="95" y="116" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial" font-size="13" font-weight="600" fill="#8af0b4">Total Contributions</text>
+  <text x="95" y="140" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial" font-size="11" fill="#cfe9da">Aug 18, 2012 – Present</text>
+
+  <!-- current streak ring + flame -->
+  <circle cx="252" cy="78" r="30" fill="none" stroke="#8af0b4" stroke-width="5" stroke-linecap="round" stroke-dasharray="168 20" transform="rotate(120 252 78)"/>
+  <text x="252" y="86" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial" font-size="28" font-weight="700" fill="#ffffff">5</text>
+  <text x="252" y="72" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial" font-size="12" fill="#8af0b4">🔥</text>
+  <text x="252" y="124" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial" font-size="13" font-weight="600" fill="#8af0b4">Current Streak</text>
+  <text x="252" y="146" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial" font-size="11" fill="#cfe9da">Jul 20 – Jul 24</text>
+
+  <!-- longest -->
+  <text x="408" y="88" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial" font-size="40" font-weight="700" fill="#ffffff">28</text>
+  <text x="408" y="116" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial" font-size="13" font-weight="600" fill="#8af0b4">Longest Streak</text>
+  <text x="408" y="140" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial" font-size="11" fill="#cfe9da">Aug 17 – Sep 13, 2025</text>
+</svg>
