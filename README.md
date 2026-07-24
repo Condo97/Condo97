@@ -6,6 +6,7 @@
     <td width="60%" align="center">
       <img src="img/stats1.svg" style="width: 500px; height: auto; display: block; margin: 0 auto;">
     </td>
+</tr>
 </table>
 
 # Alex Coundouriotis
@@ -13,16 +14,15 @@
 [![Email Badge](https://img.shields.io/badge/Email-alex.coundou%40gmail.com-blue.svg?style=flat-square)](mailto:alex.coundou@gmail.com)
 
 ## Summary
-B.S. in Computer Science graduate with 9+ years of iOS and Java development, consistently delivering creative solutions and impactful applications. Boasts a track record of 10+ ground-up app builds (6 currently on AppStore), averaging 8k–12k downloads monthly. Leveraged social media channels (TikTok) to grow a following of over 500k and drive 520M+ views. Passionate about AI, GPT integration, and delivering cutting-edge mobile experiences.
+Senior iOS & full-stack engineer, 9 years shipping production software — AI-augmented by design: architecture, constraints, and verification gates, with coding agents doing the typing. I build and operate production LLM systems (multi-provider routing, guardrails, RAG, evals, cost telemetry) and the agent infrastructure around them. Highest-output engineer on a consumer health app — 40% of all production commits over 14 months. 10+ apps shipped to the App Store under my own studio. Everything here is checkable.
 
 ---
 
-## Education & Skills
-- Bachelor of Science in Computer Science from Kennesaw State University  
-- 9+ years of iOS & Java software development  
-- 10+ ground-up developed apps (6 currently on the App Store)  
-- 8k–12k average monthly downloads  
-- Achieved 500k+ followers & 520M+ views on TikTok  
+## Currently
+**Reframe (Glucobit, Inc.) — iOS & Full-Stack Engineer (2025 – Present)**
+- Production LLM infrastructure on serverless Node.js / AWS Lambda: multi-provider model routing with failover, prompt guardrails, RAG, per-request cost & cache telemetry
+- SwiftUI modernization of a large legacy UIKit codebase — multiple 10K+ line surface rewrites, full backward compatibility
+- Unified real-time messaging platform across six conversation types; widgets & Live Activities; Stripe/RevenueCat monetization
 
 ---
 
@@ -30,56 +30,38 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 
 ### [StudyAI - Web & Photo AI Tutor](https://apps.apple.com/us/app/studyai-web-photo-ai-tutor/id1664039953)
 • <strong>Tech Stack:</strong> Swift, SwiftUI, CoreData, Java, MySQL, Firebase, Tenjin, GPT, Git  
-• <strong>Period:</strong> 2021 – Present  
-• 25,000+ lines of Swift & SwiftUI using UIKit & Combine for camera/audio (AVFoundation)  
+• <strong>Period:</strong> 2021 – Present · live on the App Store since January 2023  
+• ~86,000 lines of Swift, 26-entity Core Data model, watchOS companion, realtime voice  
 • Integrated open-source Java GPT Library for live chats, computer vision, and structured outputs  
-• Custom Java server for chat interception, MySQL persistence & rate limiting  
-• StoreKit 1.0/2.0 server-side receipt & transaction validation with an open-source Java Apple Transaction Client Library  
-• 12 Swift packages (including an open-source face animation library, Firebase, MMPs)  
+• Custom Java backend (~32K lines) with StoreKit 2 server-side JWS verification  
 • 870+ ratings (4.75 star average)  
 
 ### [ChefApp AI Recipe Maker](https://apps.apple.com/us/app/chefapp-ai-recipe-creator/id6450523267) ([github](https://github.com/Condo97/ChefApp-SwiftUI-Main/tree/main))
 • <strong>Tech Stack:</strong> Swift, SwiftUI, CoreData, Java, MySQL, Firebase, Tenjin, GPT, Git  
-• <strong>Period:</strong> 2022 – Present  
 • GPT Structured Output to generate JSON recipes from fridge/pantry images  
-• Bing Image Search API for recipe images, TikAPI for relevant recipe videos  
-• Universal Links for recipe sharing & Java/MySQL for backend ID-based downloads  
 • Share Extension for importing recipes from video transcription (OpenAI Whisper), websites, or images  
-• 15,000+ lines of Swift & Java, using HTTPS and WebSocket with local (CoreData)/remote (MySQL) persistence  
+• Universal Links for recipe sharing & Java/MySQL backend  
 
 ### [Java GPT Client - Open Source](https://github.com/Condo97/Java-GPT-Client-OAIGPTConnector)
-• <strong>Tech Stack:</strong> Java, GPT-4 + Structured Outputs, JUnit Jupiter, Jackson, Git  
-• <strong>Period:</strong> 2022 – Present  
 • Open-source Java GPT & OpenAI library for real-time chats, structured outputs, image creation, and audio transcription  
 • WebSocket support for live chats plus RESTful API usage  
 • Annotation framework for structured output POJOs—encode and decode structured responses  
 
 ---
 
-## Corporate Experience
-
-### GreenSky: Software Developer (2017–2019)
-• Swift, Objective-C, CoreData, UIKit, MS SQL, Agile/Scrum, Jira, Git  
-• Led iOS codebase upgrade from Objective-C to Swift with adaptive UIKit interfaces  
-• Participated in daily scrums, wrote proposals, collaborated with QA, and facilitated production releases  
-• Handled sensitive data (SSN, credit cards, addresses) with confidentiality and compliance  
-
-### GreenSky: Software Development Intern (2017)
-• Swift, Objective-C, CoreData, UIKit, Jira, Git  
-• Delivered PDF417 ID scanner for fast autofill on customer loan applications  
-• Contributed to conversion from Objective-C to Swift upon rapid completion of initial tasks  
-• Demonstrated flexibility: learned Objective-C on the job and moved to professional Swift development  
+## Open Source
+- **Merged PRs on third-party open-source Swift projects** — an event-handling fix in an OpenAI realtime API client ([m1guelpf/swift-realtime-openai](https://github.com/m1guelpf/swift-realtime-openai)) and undo support in a Swift code-editor component ([ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor)) — reviewed and merged by external maintainers
+- **Apple Transaction Client** — early StoreKit 2 server-side validation library, an open-source alternative to RevenueCat
+- **SQL Componentizer** — annotation-based Java POJO ↔ SQL micro-ORM
 
 ---
 
-## Other Freelance Projects
+## Corporate Experience
 
-• <strong>SQL Componentizer</strong> (Java, MySQL, Open Source) – Serialize/deserialze Java objects & enums to MySQL via annotations and builder patterns.  
-• <strong>Apple Transaction Client</strong> (Java, MySQL, Open Source) – Early StoreKit 2.0 transaction validation library, alternative to RevenueCat.  
-• <strong>Call AI</strong> (Swift, SwiftUI, Java, MySQL, Google Analytics, Tenjin) – Simple OpenAI Realtime API WebSocket client/server with speech and transcription.  
-• <strong>2024AI+CODE</strong> (Swift, SwiftUI, Java, Python, MySQL, ChatGPT, GPT Function Calling) – MacOS code editor leveraging GPT for multi-file actions and code suggestions.  
-• <strong>AI+Vision</strong> (Swift, SwiftUI, Java, MySQL, Google Analytics, Tenjin) – Rapidly built AI camera control app integrated with existing open-source libraries.  
-• <strong>Barback AI Drink Maker</strong> (Swift, SwiftUI, Java, MySQL, Google Analytics, Tenjin) – Creates drink mixes from a photo of a user’s home bar, meant as a 30-day SwiftUI challenge.  
+### GreenSky: Software Developer (2017–2019)
+• Led iOS codebase upgrade from Objective-C to Swift with adaptive UIKit interfaces  
+• Delivered PDF417 driver's-license scanner for loan-application autofill, released to production  
+• Trusted with PII (SSN, credit cards, addresses) in a regulated fintech environment  
 
 ---
 
@@ -107,36 +89,27 @@ B.S. in Computer Science graduate with 9+ years of iOS and Java development, con
 ## Skills & Proficiencies
 
 ### Languages & Technologies
-• Swift • SwiftUI • Java • Python • MySQL • Git • Maven  
-• Swift Package Manager (SPM) • ChatGPT • GPT Function Calling  
-• Google Analytics • Mobile Measurement Partner (MMP) • SSL  
+• Swift • SwiftUI • UIKit • TypeScript • Python • Java • Objective-C • SQL • GraphQL  
+• OpenAI + Anthropic APIs • RAG • structured outputs • function calling • evals • prompt guardrails • model routing • MCP • agent orchestration  
+• Core Data • Combine • Swift Concurrency • WidgetKit • ActivityKit • StoreKit 2 • AVFoundation • XCTest • SPM  
+• AWS Lambda • Node.js • PostgreSQL • MySQL • Redis • REST • WebSocket • Docker • GitHub Actions  
 
 ### Experience
 • iOS & Mobile App Development  
 • Full Stack & Backend Development  
-• AI & API Integration  
+• Production LLM Systems & AI-Augmented Engineering  
 • Front-End Development & Client-Server Architecture  
-• Multi-File Code Planning & Function Refactoring  
 • Open Source Libraries  
 
 ### Tools & Platforms
-• Visual Studio & VSCode • Xcode • IntelliJ • Eclipse  
-• Git/GitHub • Shopify • TikTok Shop  
-• Facebook Ads Manager • Google Analytics • Firebase Analytics  
+• Xcode • VSCode • IntelliJ  
+• Git/GitHub • Shopify  
+• Google Analytics • Firebase  
 
 ### Project Management
 • Agile & Scrum • Requirement Analysis • Code Reviews  
-• Version Control • Cross-Functional Collaboration  
-
-### Soft Skills
-• Problem Solving • Critical Thinking • Team Collaboration  
-• Project Management • Communication • Time Management  
-
-### Miscellaneous
-• HTTPS / WebSocket Secure (WSS) • GPT Camera Control  
-• In-App Purchases • UX/UI • Modular Code Development  
-• Data Analytics  
+• Version Control • Async Remote Collaboration  
 
 ---
 
-> Ready to craft the next big thing in AI-driven mobile solutions? Let’s connect and collaborate on innovative, user-centric experiences. Feel free to reach out via email or phone for any iOS, AI, or full stack projects!
+> Building production LLM systems and the guardrails that make them trustworthy — routing, evals, cost control. 9 years shipping iOS and full-stack. Everything here is checkable — reach out via email or phone.
