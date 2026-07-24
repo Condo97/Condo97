@@ -14,14 +14,14 @@
 [![Email Badge](https://img.shields.io/badge/Email-alex.coundou%40gmail.com-blue.svg?style=flat-square)](mailto:alex.coundou@gmail.com)
 
 ## Summary
-Senior iOS & full-stack engineer, 9 years shipping production software — AI-augmented by design: architecture, constraints, and verification gates, with coding agents doing the typing. I build and operate production LLM systems (multi-provider routing, guardrails, RAG, evals, cost telemetry) and the agent infrastructure around them. Shipped ~140K lines of Swift in 14 months on a consumer health app. 10+ apps shipped to the App Store under my own studio. Everything here is checkable.
+Senior iOS & full-stack engineer, 9 years shipping production software — AI-augmented by design: architecture, constraints, and verification gates, with coding agents doing the typing. I build and operate production LLM systems (multi-provider routing, guardrails, RAG, evals, cost telemetry) and the agent infrastructure around them. 10+ apps shipped to the App Store under my own studio. Everything here is checkable.
 
 ---
 
 ## Currently
 **Reframe (Glucobit, Inc.) — iOS & Full-Stack Engineer (2025 – Present)**
 - Production LLM infrastructure on serverless Node.js / AWS Lambda: multi-provider model routing with failover, prompt guardrails, RAG, per-request cost & cache telemetry
-- SwiftUI modernization of a large legacy UIKit codebase — multiple 10K+ line surface rewrites, full backward compatibility
+- SwiftUI modernization of a large legacy UIKit codebase — multiple large-scale surface rewrites, full backward compatibility
 - Unified real-time messaging platform across six conversation types; widgets & Live Activities; Stripe/RevenueCat monetization
 
 ---
