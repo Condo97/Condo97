@@ -80,7 +80,7 @@ Senior iOS & full-stack engineer, 9 years shipping production software, now focu
 - [Profile](https://github.com/Condo97)
 - [Java GPT Client](https://github.com/Condo97/Java-GPT-Client-OAIGPTConnector)  
 - [StudyAI iOS](https://github.com/Condo97/StudyAI-iOS)  
-- [StudyAI Server](https://github.com/Condo97/WriteSmith-Server)  
+- [Apple Transaction Client](https://github.com/Condo97/AppleTransactionClient)  
 - [ChefApp iOS](https://github.com/Condo97/ChefApp-SwiftUI-Public)  
 - [ChefApp Server](https://github.com/Condo97/ChefApp-Server)  
 - [SQLComponentizer](https://github.com/Condo97/SQLComponentizer)
