@@ -14,7 +14,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-alex.coundou%40gmail.com-blue.svg?style=flat-square)](mailto:alex.coundou@gmail.com)
 
 ## Summary
-Senior iOS & full-stack engineer, 9 years shipping production software. I design the architecture, constraints, and verification gates, and coding agents do the typing. I build and operate production LLM systems (multi-provider routing, guardrails, RAG, evals, cost telemetry) and the agent infrastructure around them. 10+ apps shipped to the App Store under my own studio. Everything here is checkable.
+Senior iOS & full-stack engineer, 9 years shipping production software, now focused on production LLM infrastructure: multi-provider routing, guardrails, RAG, evals, and cost telemetry. I design the architecture, constraints, and verification gates, then direct coding agents against them. 7 apps shipped to the App Store under my own studio. Everything here is checkable.
 
 ---
 
@@ -74,6 +74,7 @@ Senior iOS & full-stack engineer, 9 years shipping production software. I design
 - [AI+Vision](https://apps.apple.com/us/app/ai-vision-see-with-ai/id6479183759)
 - [CallAI](https://apps.apple.com/us/app/call-ai-simple-voice-chat/id6739984942)
 - [SuppSnap](https://apps.apple.com/us/app/suppsnap-analyze-supplements/id6739546193)
+- [Always Up! AI Assistant](https://apps.apple.com/us/app/id6741780064)
 
 ### GitHub
 - [Profile](https://github.com/Condo97)
